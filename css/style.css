@@ -794,7 +794,7 @@ span.hoverBox{
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 	
-	background: rgba(0, 0, 0, 0.1);
+	background: rgba(0, 0, 0, 0);
 	
 }
 ul.portfolioContainer li:hover span.hoverBox{
